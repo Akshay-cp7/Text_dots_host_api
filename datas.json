@@ -2,14 +2,14 @@
   "Classes": {
     "Class A": {
       "Students": [
-        {"name": "John", "age": 20, "roll_no": 101},
-        {"name": "Alice", "age": 22, "roll_no": 102}
+        {"name": "John"},
+        {"name": "Alice"}
       ]
     },
     "Class B": {
       "Students": [
-        {"name": "Mark", "age": 21, "roll_no": 103},
-        {"name": "Sophia", "age": 23, "roll_no": 104}
+        {"name": "Mark"},
+        {"name": "Sophia"}
       ]
     }
   }
