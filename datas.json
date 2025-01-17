@@ -1,34 +1,16 @@
 {
-  "Students": {
-    "Student1": {
-      "name": "John Doe",
-      "age": 20,
-      "roll_no": 101
+  "Classes": {
+    "Class A": {
+      "Students": [
+        {"name": "John", "age": 20, "roll_no": 101},
+        {"name": "Alice", "age": 22, "roll_no": 102}
+      ]
     },
-    "Student2": {
-      "name": "Jane Smith",
-      "age": 22,
-      "roll_no": 102
-    },
-    "Student3": {
-      "name": "Alice Johnson",
-      "age": 21,
-      "roll_no": 103
-    },
-    "Student4": {
-      "name": "Bob Brown",
-      "age": 23,
-      "roll_no": 104
-    },
-    "Student5": {
-      "name": "Eve Davis",
-      "age": 20,
-      "roll_no": 108
-    },
-     "Student6": {
-      "name": "Akshay",
-      "age": 21,
-      "roll_no": 100
+    "Class B": {
+      "Students": [
+        {"name": "Mark", "age": 21, "roll_no": 103},
+        {"name": "Sophia", "age": 23, "roll_no": 104}
+      ]
     }
   }
 }
